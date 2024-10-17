@@ -1,5 +1,4 @@
-# Recipe App
-
+# Recipe App 🍕
 Cal State LA CS 3035 Programing Paradigms
 
 ## Overview
